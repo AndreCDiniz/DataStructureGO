@@ -6,7 +6,7 @@ import "fmt"
 func main() {
 
 	arr := []int{1, 3, 5, 7, 8, 9, 11, 15, 19, 20, 21, 25}
-	alvo := 3
+	alvo := 15
 
 	resultado := buscaBinaria(arr, alvo)
 
